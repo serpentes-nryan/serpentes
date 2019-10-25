@@ -1,0 +1,120 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="serpentes.co.uk" resolutions="1x" timestamp="1572019470737">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="209710686" ref="style:brand:index"/>
+    <file name="style.css" crc="4268499540" ref="style"/>
+    <file name="brand.css" crc="3977840626" ref="brand"/>
+    <file name="index.css" crc="4111924564" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:brand:style"/>
+    <file name="museutils.js" crc="3939489907" ref="index:brand:style"/>
+    <file name="whatinput.js" crc="86476730" ref="index:brand:style"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:brand:style"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:brand:style"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:brand:style"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:brand"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:brand:style"/>
+    <file name="require.js" crc="4177726516" ref="index:brand:style"/>
+  </folder>
+  <folder name="images">
+    <file name="v7---sixth-final-simplified00_05_34_12still055.jpg" crc="142781755" seo="true" ref="index:brand:style">
+      <caption webpage="index" alt=""/>
+      <caption webpage="style" alt=""/>
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:brand:style"/>
+    <file name="u1409.png" crc="3946013366" ref="index"/>
+    <file name="u1409-r.png" crc="119022185" ref="index"/>
+    <file name="u1347-7.png" crc="4225498352" ref="index"/>
+    <file name="u1457-4-a.png" crc="81157467" ref="index"/>
+    <file name="u2091.png" crc="4181446130" ref="index"/>
+    <file name="u2091-r.png" crc="245032709" ref="index"/>
+    <file name="u2091-m.png" crc="245032709" ref="index"/>
+    <file name="u2091-a.png" crc="3877536079" ref="index"/>
+    <file name="u2098.png" crc="502220273" ref="index"/>
+    <file name="u2098-r.png" crc="252419845" ref="index"/>
+    <file name="u2098-m.png" crc="252419845" ref="index"/>
+    <file name="u2098-a.png" crc="442487072" ref="index"/>
+    <file name="final white.png" crc="110574134" seo="true" ref="index:brand:style">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="style" alt=""/>
+      <caption webpage="style" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="v7---sixth-final-simplified00_02_12_20still088-crop-u2447.png" crc="150449434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2019-10-25 at 143039.jpg" crc="210292946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1214-4.png" crc="93422390" ref="index"/>
+    <file name="screenshot 2019-10-25 at 143058-crop-u2292.jpg" crc="348236367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1236-4.png" crc="3848351971" ref="index"/>
+    <file name="screenshot 2019-10-25 at 143011-crop-u2305.jpg" crc="470967889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1226-4.png" crc="4254429588" ref="index"/>
+    <file name="u1156-4.png" crc="4140489335" ref="index"/>
+    <file name="u2431-4.png" crc="3819356629" ref="index"/>
+    <file name="v7---sixth-final-simplified00_04_15_14still0721202x676.jpg" crc="2857873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v7---sixth-final-simplified00_01_48_17still038-crop-u2434.jpg" crc="3996458752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1112-4.png" crc="3997919782" ref="index"/>
+    <file name="v7---sixth-final-simplified00_02_12_20still088-crop-u2804.png" crc="4228861609" seo="true" ref="index:brand:style">
+      <caption webpage="index" alt=""/>
+      <caption webpage="style" alt=""/>
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="instagram-02.png" crc="4174420559" seo="true" ref="index:brand:style">
+      <caption webpage="index" alt=""/>
+      <caption webpage="style" alt=""/>
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="u3013-4.png" crc="217415544" ref="index:brand:style"/>
+    <file name="u2801.png" crc="3946013366" ref="index:brand:style"/>
+    <file name="u2801-r.png" crc="119022185" ref="index:brand:style"/>
+    <file name="u2673.png" crc="3946013366" ref="brand"/>
+    <file name="u2673-r.png" crc="119022185" ref="brand"/>
+    <file name="u2676-7.png" crc="321066674" ref="brand"/>
+    <file name="u2943.png" crc="81157467" ref="brand"/>
+    <file name="u2943-r.png" crc="442180013" ref="brand"/>
+    <file name="u2943-m.png" crc="442180013" ref="brand"/>
+    <file name="u2943-a.png" crc="81157467" ref="brand"/>
+    <file name="u2953-4-a.png" crc="3877536079" ref="brand"/>
+    <file name="u2938.png" crc="502220273" ref="brand"/>
+    <file name="u2938-r.png" crc="252419845" ref="brand"/>
+    <file name="u2938-m.png" crc="252419845" ref="brand"/>
+    <file name="u2938-a.png" crc="442487072" ref="brand"/>
+    <file name="v7---sixth-final-simplified00_04_15_14still072-crop-u2767.jpg" crc="4293981954" seo="true" ref="brand">
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="u2766-4.png" crc="4140489335" ref="brand"/>
+    <file name="u2518.png" crc="3946013366" ref="style"/>
+    <file name="u2518-r.png" crc="119022185" ref="style"/>
+    <file name="u2521-7.png" crc="3915092829" ref="style"/>
+    <file name="u2877.png" crc="81157467" ref="style"/>
+    <file name="u2877-r.png" crc="442180013" ref="style"/>
+    <file name="u2877-m.png" crc="442180013" ref="style"/>
+    <file name="u2877-a.png" crc="81157467" ref="style"/>
+    <file name="u2887.png" crc="4181446130" ref="style"/>
+    <file name="u2887-r.png" crc="245032709" ref="style"/>
+    <file name="u2887-m.png" crc="245032709" ref="style"/>
+    <file name="u2887-a.png" crc="3877536079" ref="style"/>
+    <file name="u2872-4-a.png" crc="442487072" ref="style"/>
+    <file name="v7---sixth-final-simplified00_01_48_17still038-crop-u2612.jpg" crc="3996458752" seo="true" ref="style">
+      <caption webpage="style" alt=""/>
+    </file>
+    <file name="u2604-4.png" crc="3997919782" ref="style"/>
+  </folder>
+  <file name="index.html" crc="373964361" seo="true" mt="1572019467497" redirect="true"/>
+  <file name="brand.html" crc="3792696364" seo="true" mt="1572019436103" redirect="true"/>
+  <file name="style.html" crc="247226824" seo="true" mt="1572019470376" redirect="true"/>
+</manifest>
