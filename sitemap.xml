@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://serpentes.co.uk/index.html</loc>
-    <lastmod>2019-10-25</lastmod>
+    <lastmod>2019-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,13 +15,13 @@
       <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_02_12_20still088-crop-u2447.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20143039.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20143058-crop-u2292.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20143011-crop-u2305.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20143039.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_04_15_14still0721202x676.jpg</image:loc>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://serpentes.co.uk/brand.html</loc>
-    <lastmod>2019-10-25</lastmod>
+    <lastmod>2019-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,10 +56,16 @@
     <image:image>
       <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_04_15_14still072-crop-u2767.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/final.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/hand-girl-pattern-tattoo-arm-shoulder-1415958-pxherecom-crop-u4672.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://serpentes.co.uk/style.html</loc>
-    <lastmod>2019-10-25</lastmod>
+    <lastmod>2019-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -76,6 +82,72 @@
     </image:image>
     <image:image>
       <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_01_48_17still038-crop-u2612.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://serpentes.co.uk/product-0001-01.html</loc>
+    <lastmod>2019-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/final%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_02_12_20still088-crop-u2804.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/instagram-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_05_34_12still055-crop-u3028.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_01_48_17still038-crop-u3040.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203640-crop-u3172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203643-crop-u3175.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203640-crop-u3780.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://serpentes.co.uk/product-0002-01.html</loc>
+    <lastmod>2019-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/final%20white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_02_12_20still088-crop-u2804.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/instagram-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_05_34_12still055-crop-u3897.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/v7---sixth-final-simplified00_01_48_17still038-crop-u3894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203640-crop-u3879.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203643-crop-u3877.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serpentes.co.uk/images/screenshot%202019-10-25%20at%20203640-crop-u3889.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
